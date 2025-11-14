@@ -23,10 +23,9 @@ Check installation:
 node -v
 
 2. Clone this repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Pathum-Piyumal/web-system-and-technology-course-module-js-lab-1.git
 
-3. Run the JavaScript file
+4. Run the JavaScript file
 node array.js
 
 📝 Lab Solutions Overview
